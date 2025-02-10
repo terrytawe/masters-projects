@@ -1,0 +1,31 @@
+Journal
+
+
+---------------------------------------------------------------------------------------------
+GIT
+---------------------------------------------------------------------------------------------
+
+10.02.2025
+
+Had a tough time setting up GIT. 
+Finally made it but have to learn more. 
+	- learn how to create branches
+	- learn how to add update in VS Code as well. 
+
+
+
+
+
+---------------------------------------------------------------------------------------------
+Django
+---------------------------------------------------------------------------------------------
+10.02.2025
+
+Completed base tutorial on setting up django. 
+Steps learnt
+	- Create directory (mkdir {directory_name})
+	- pipenv shell (setup shell)
+	- pipenv install django
+	- django-admin startproject {project_name}
+	
+
