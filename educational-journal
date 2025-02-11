@@ -13,6 +13,10 @@ Finally made it but have to learn more.
 	- learn how to add update in VS Code as well. 
 
 
+learnt: 
+	git add . 
+	git commint -m "{Name/Description of activity}"
+	git push -u origin main
 
 
 
@@ -27,5 +31,5 @@ Steps learnt
 	- pipenv shell (setup shell)
 	- pipenv install django
 	- django-admin startproject {project_name}
-	
+
 
